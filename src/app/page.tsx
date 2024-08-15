@@ -1,3 +1,4 @@
+
 import { Button } from "@/components/ui/button";
 
 export default function Home() {
@@ -12,5 +13,6 @@ export default function Home() {
       
     </footer>
     </div>
+
   )
 }
